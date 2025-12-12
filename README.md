@@ -4,7 +4,7 @@
 [](https://www.python.org/)
 [](https://github.com/astral-sh/uv)
 
-**Styx** 是一个基于 Python 的高性能量子多体物理模拟框架。
+**Styx** 是一个基于 Python 的高性能量子信息模拟框架。
 
 它的核心愿景是建立一座桥梁，连接**张量网络 (Tensor Networks)** 的确定性收缩方法与 **量子蒙特卡洛 (Quantum Monte Carlo)** 的随机采样技术，为解决强关联量子系统提供灵活、高效的计算工具。
 
